@@ -13,5 +13,5 @@ Performance metrics calculated:
 - Response Time (RT)  
 
 ## How to Run
-```bash
+
 python scheduler.py
